@@ -128,9 +128,9 @@ El TP sera desarrollado con el fin de abarcar requerimientos para el TP de AD.
 En principio, la idea propuesta es la creacion de un sitio de eCommerce, que permita, ademas, la publicacion de productos en la plataforma de Mercado Libre mediante su API.
 
   ABMC: 
-  Luego de la defensa el resultado puede ser:
 * Productos (ID, nombre, desc, cantidad)
 * Precio (ID, ID_Producto, fecha_desde, fecha_hasta, precio)
+  
   Listado:  
 * Productos (ID_Producto, nombre, desc, cantidad, precio_actual)
 * Productos_precios_historico (ID_Producto, nombre, desc, fecha_desde, fecha_hasta, precio)
