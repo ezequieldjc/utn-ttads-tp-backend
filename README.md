@@ -125,7 +125,7 @@ Luego de la defensa el resultado puede ser:
 ### 4.1 Definicion de Alcance
 El TP sera desarrollado con el fin de abarcar requerimientos para el TP de AD.
 
-En principio, la idea propuesta es la creacion de un sitio de eCommerce, que permita, ademas, la publicacion de productos en la plataforma de Mercado Libre mediante su API.
+En principio, la idea propuesta es la creacion de un sitio de eCommerce, que permita, ademas, la publicacion de productos en la plataforma de Mercado Libre mediante su API REST.
 
   ABMC: 
 * Productos (ID, nombre, desc, cantidad)
